@@ -9,7 +9,7 @@ Tela de login de sistema, desenvolvido com REACT.js + VITE.
 
 ## 🔨 Funcionalidades do projeto
 
-Aplicação web deste projeto permite ao usuário de forma limpa, acesso rápido e seguro às informações de login e senha, fornecendo saídas para quando usuário esquecer seu acesso permitindo que o sistema registre o último acesso, garantindo uma experi~encia do usuário mais segura e facilitada.
+Aplicação web deste projeto permite ao usuário de forma limpa, acesso rápido e seguro às informações de login e senha, fornecendo saídas para quando usuário esquecer seu acesso permitindo que o sistema registre o último acesso, garantindo uma experiência do usuário mais segura e facilitada.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
