@@ -18,7 +18,7 @@ As técnicas e tecnologias utilizadas foram:
 - `REACT`: para criação da interface de usuário dinâmica, performática e de fácil manutenção;
 - `HTML`: criação dos elementos da tela;
 - `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos para checagem dos valores encontrados nas carteiras dos suspeitos, baseado na quantidade monetária e quantidade de cédulas encontradas.
+- `JavaScript`: construção de elementos dinâmicos inserção dos dados nos campos.
 
 #
 ## Detalhamento de trechos do código
